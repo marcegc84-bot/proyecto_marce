@@ -1,0 +1,31 @@
+Instancia creada con IP 44.203.20.187 
+Instancia  44.203.20.187 destruida 
+Instancia creada con IP 3.235.151.115 
+Instancia creada con IP 44.200.218.6 
+Instancia creada con IP 44.195.24.98 
+Instancia creada con IP 44.203.224.89 
+Instancia creada con IP 44.195.0.246 
+Instancia creada con IP 44.203.9.10 
+Instancia creada con IP 44.211.244.115 
+Instancia creada con IP 44.222.76.224 
+Instancia creada con IP 54.160.39.89 
+Instancia creada con IP 54.208.91.254 
+Instancia creada con IP 54.152.236.208 
+Instancia creada con IP 184.72.113.216 
+Instancia creada con IP 34.202.157.144 
+Instancia creada con IP 100.26.153.7 
+Instancia  52.204.122.72 destruida 
+Instancia creada con IP 3.83.227.175 
+Instancia  3.83.227.175 destruida 
+Instancia creada con IP 34.235.142.117 
+Instancia  34.235.142.117 destruida 
+Instancia creada con IP 3.81.73.239 
+Instancia  3.81.73.239 destruida 
+Instancia creada con IP 54.224.34.231 
+Instancia destruida 54.224.34.231  
+Instancia creada con IP 54.163.234.176 
+Instancia creada con IP 54.242.145.35 
+Instancia destruida 54.242.145.35  
+Instancia creada con IP 54.174.117.104 
+Instancia destruida 54.174.117.104  
+Instancia destruida 54.90.62.147  
