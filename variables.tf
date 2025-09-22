@@ -42,3 +42,11 @@ variable "enable_monitoring" {
   type        = number
 
 }
+
+variable "access_key" {
+  
+}
+
+variable "secret_key" {
+  
+}
