@@ -1,2 +1,2 @@
 # proyecto_marce
-Proyecto de creación de una infraestructura con un bucket s3 generando un nombre de forma aleatoria, ya que esta debe ser único.
+Proyecto de creación de una infraestructura donde se crean doce recursos con tres instancias llamdas apache, myspl y jumpserver. Una VPC con dos subnet, publica y privada y un security group para la subnet publica de la VPC, que permita eltrafico de entrada ssh por el puerto 22 y todo el trafico de salida. Tambien crea un bucket s3, fura de la VPC, ya que esto es un recurso de AWS.
